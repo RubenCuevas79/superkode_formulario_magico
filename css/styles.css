@@ -1,0 +1,34 @@
+* { margin: 0;
+  padding: 0;
+  block-size: border-box;
+} /*es un reseteo al principio*/
+
+
+
+
+/*
+@media (min-width:580px){
+  .main .center .searh{
+    width: 500px;
+  }
+}
+
+@media (min-width:583px){
+  .main .center span{
+    left: 44%;
+    top:-52px;
+  }
+}
+
+@media (min-width: 7600px) {
+  .main .center .search {
+    width: 100%;
+  }
+  .main .center .links{
+    display: none;
+  }
+  .main .top .fa {
+    cursor: pointer;
+    visibility: visible;
+  }
+}*/
